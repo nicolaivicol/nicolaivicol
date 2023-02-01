@@ -12,6 +12,9 @@ Topics: `python` `machine-learning` `word2vec` `kaggle` `lightgbm` `learning-to-
 #### 2. [Modelling and prediction of default + deployment via AWS Sagemaker](https://github.com/nicolaivicol/ml-pred-default-deploy-aws-sagemaker)
 Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemaker` `optuna` `xgboost-classifier` `deepchecks`
 
+#### 3. [Solution to kaggle competition: Instacart](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
+Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
+
 <!---
 nicolaivicol/nicolaivicol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

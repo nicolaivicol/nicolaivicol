@@ -5,6 +5,13 @@
   -  linkedin: https://www.linkedin.com/in/nicolai-vicol/
   -  mail: nicolaivicol@gmail.com
 
+### Selected projects outside of work
+#### 1. [Solution to kaggle competition OTTO – Multi-Objective Recommender System](https://github.com/nicolaivicol/otto-recommender)
+Topics: `python` `machine-learning` `word2vec` `kaggle` `lightgbm` `learning-to-rank` `recsys` `recommender-system` `kmeans` `dask` `otto` `faiss` `dask-ml` `polars` `kaggle-otto-recommender`
+
+#### 2. [Modelling and prediction of default + deployment via AWS Sagemaker](https://github.com/nicolaivicol/ml-pred-default-deploy-aws-sagemaker)
+Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemaker` `optuna` `xgboost-classifier` `deepchecks`
+
 <!---
 nicolaivicol/nicolaivicol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

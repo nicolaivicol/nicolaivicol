@@ -8,13 +8,13 @@
 ##
 
 ### Selected projects outside of work
-#### 1. [Solution to kaggle competition OTTO – Multi-Objective Recommender System](https://github.com/nicolaivicol/otto-recommender)
+#### 1. [Solution to kaggle competition: OTTO – Multi-Objective Recommender System](https://github.com/nicolaivicol/otto-recommender)
 Topics: `python` `machine-learning` `word2vec` `kaggle` `lightgbm` `learning-to-rank` `recsys` `recommender-system` `kmeans` `dask` `otto` `faiss` `dask-ml` `polars` `kaggle-otto-recommender`
 
 #### 2. [Modelling and prediction of default + deployment via AWS Sagemaker](https://github.com/nicolaivicol/ml-pred-default-deploy-aws-sagemaker)
 Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemaker` `optuna` `xgboost-classifier` `deepchecks`
 
-#### 3. [Solution to kaggle competition: Instacart](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
+#### 3. [Solution to kaggle competition: Instacart Market Basket Analysis](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
 Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
 
 ##

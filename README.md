@@ -4,6 +4,8 @@
 - 📫 How to reach me:
   -  linkedin: https://www.linkedin.com/in/nicolai-vicol/
   -  mail: nicolaivicol@gmail.com
+ 
+![](https://komarev.com/ghpvc/?username=nicolaivicol)
 
 ### Selected projects outside of work
 #### 1. [Solution to kaggle competition OTTO – Multi-Objective Recommender System](https://github.com/nicolaivicol/otto-recommender)
@@ -14,6 +16,8 @@ Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemak
 
 #### 3. [Solution to kaggle competition: Instacart](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
 Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
+
+
 
 <!---
 nicolaivicol/nicolaivicol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

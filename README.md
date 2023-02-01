@@ -17,7 +17,9 @@ Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemak
 #### 3. [Solution to kaggle competition: Instacart](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
 Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
 
-
+<div align="center">
+  <img height="120" src="https://media.giphy.com/media/TLeLKUdIc1tvAxb7ab/giphy.gif"  />
+</div>
 
 <!---
 nicolaivicol/nicolaivicol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

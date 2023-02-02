@@ -19,6 +19,11 @@ Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
 
 ##
 
+### Articles
+- [Forecasting with cohort-based models](https://medium.com/towards-data-science/forecasting-with-cohort-based-models-e71003bc7ecd)
+
+##
+
 ![](https://komarev.com/ghpvc/?username=nicolaivicol)
 
 <!---

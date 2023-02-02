@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolaivicol
 - 👀 I’m interested in Data Science & Data Engineering.
-- 🌱 I’m a Data Scientist at Wix.com.
+- 💼 I’m a Data Scientist at Wix.com.
 - 📫 How to reach me:
   -  linkedin: https://www.linkedin.com/in/nicolai-vicol/
   -  mail: nicolaivicol@gmail.com

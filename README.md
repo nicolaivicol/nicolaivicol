@@ -14,7 +14,10 @@ Topics: `python` `machine-learning` `word2vec` `kaggle` `lightgbm` `learning-to-
 #### 2. [Modelling and prediction of default + deployment via AWS Sagemaker](https://github.com/nicolaivicol/ml-pred-default-deploy-aws-sagemaker)
 Topics: `python` `machine-learning` `aws-lambda` `xgboost` `boruta` `aws-sagemaker` `optuna` `xgboost-classifier` `deepchecks`
 
-#### 3. [Solution to kaggle competition: Instacart Market Basket Analysis](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
+#### 3. [Solution to kaggle competition: GoDaddy - Microbusiness Density Forecasting](https://github.com/nicolaivicol/gd-mbiz-dens-fcst)
+Topics: `python` `time-series` `forecasting` `theta` `lightgbm` `polars`
+
+#### 4. [Solution to kaggle competition: Instacart Market Basket Analysis](https://github.com/nicolaivicol/kaggle-ml/blob/master/instacart)
 Topics: `R` `machine-learning` `recommender-system` `data.table` `xgboost`
 
 ##

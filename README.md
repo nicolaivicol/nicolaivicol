@@ -8,6 +8,10 @@
 ##
 
 ### Selected projects outside of work
+
+#### 2. [LLM-based chatbot for gov services - GigaHack 2023](https://github.com/nicolaivicol/chat-own-docs-ft-rag)
+Topics: `LLM` `chatbot` `ChatGPT` `RAG` `python` `chroma` `hackathon`
+
 #### 1. [Solution to kaggle competition: OTTO – Multi-Objective Recommender System](https://github.com/nicolaivicol/otto-recommender)
 Topics: `python` `machine-learning` `word2vec` `kaggle` `lightgbm` `learning-to-rank` `recsys` `recommender-system` `kmeans` `dask` `otto` `faiss` `dask-ml` `polars` `kaggle-otto-recommender`
 
